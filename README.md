@@ -5,7 +5,7 @@ It demonstrates a clean Python ETL stack with a CLI, logging, tests, CI, and Doc
 
 ## What it does
 
-- **Extract**: reads raw orders data (CSV) from `data/raw/orders.csv` (or from a URL if provided).
+- **Extract**: reads raw orders data (CSV) from `data/raw/orders.csv`.
 - **Transform**: cleans and validates rows, normalizes dates, computes `total_amount`, and builds
   simple **dim_customers** and **fact_orders** models.
 - **Load**: writes dimension + fact tables to a **SQLite** warehouse at `data/warehouse.db` via SQLAlchemy.
