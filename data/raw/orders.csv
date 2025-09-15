@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,item,quantity,price,city,country
+1001,1,2025-08-30,Notebook,2,3.50,London,UK
+1002,2,2025-08-30,Pencil,10,0.80,Manchester,UK
+1003,1,2025-08-31,Backpack,1,25.00,London,UK
+1004,3,2025-09-01,Water Bottle,3,7.00,Bristol,UK
+1005,2,2025-09-01,Pen,4,1.20,Manchester,UK
+1006,4,2025-09-02,Calculator,1,15.00,Leeds,UK
+1007,5,2025-09-03,Sticky Notes,5,2.10,Liverpool,UK
+1008,1,2025-09-03,Markers,3,1.90,London,UK
+1009,3,2025-09-04,Folder,6,1.10,Bristol,UK
+1010,2,2025-09-05,Highlighter,2,1.80,Manchester,UK
